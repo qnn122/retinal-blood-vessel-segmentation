@@ -1,11 +1,11 @@
 # Retinal Blood Vessel Segmentation
 
 ## Requirements
-- Python >=3.5
+- Python >=3.7
 
 ```bash
-conda create -n eyeside python=3.7
-conda activate eyeside
+conda create -n bloodvesselseg python=3.7
+conda activate bloodvesselseg
 ```
 
 ## Setup environment
