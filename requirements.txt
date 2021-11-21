@@ -1,0 +1,4 @@
+torch>=0.4.1,<1.0.1
+torchvision==0.2.1
+Pillow==5.0.0
+progressbar==2.5
